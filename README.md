@@ -1,9 +1,9 @@
-# 🚀 Full-Stack Java + React Project Portfolio
+# Full-Stack Java + React Project Portfolio
 
 A collection of **full-stack web applications** built using **Spring Boot**, **Hibernate/JPA**, **MySQL/MongoDB**, and **React** (Material UI / custom components).  
 These projects demonstrate expertise in **Java backend development**, **RESTful APIs**, **database integration**, and **modern responsive UIs**.
 
-## 📚 Project List
+## Project List
 
 ### 1️⃣ Invoice Processing System
 **Tech Stack:** Spring Boot, Hibernate, MySQL, React, Material UI, Axios  
@@ -57,20 +57,6 @@ These projects demonstrate expertise in **Java backend development**, **RESTful 
 - **Tools & Build:** IntelliJ IDEA, Maven, npm, Tomcat
 - **Version Control:** Git, GitHub
 - **Best Practices:** Modular architecture, responsive design, form validation, asynchronous API handling
-  
-project-name/
-│
-├── client/ # React frontend
-│ ├── src/components # Reusable UI components
-│ ├── src/pages # Page-level components
-│ └── src/services # API service layer
-│
-├── server/ # Spring Boot backend
-│ ├── controller # REST controllers
-│ ├── dao # Data access objects
-│ ├── model # Entity classes
-│ ├── services # Business logic
-│ └── resources # Config files
 
 ## ⚙️ Running Any Project Locally
 
