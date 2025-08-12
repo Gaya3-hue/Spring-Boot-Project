@@ -74,16 +74,13 @@ cd client
 npm install
 npm start
 
-📌 Learning Outcomes
-Building full-stack applications with Spring Boot & React
+Learning Outcomes
 
-Integrating databases with backend using Hibernate & JPA
-
-Designing responsive UIs with Material UI & custom CSS
-
-Implementing state management using Context API & Redux
-
-Applying RESTful API best practices and asynchronous data handling
+- Building full-stack applications with Spring Boot & React
+- Integrating databases with backend using Hibernate & JPA
+- Designing responsive UIs with Material UI & custom CSS
+- Implementing state management using Context API & Redux
+- Applying RESTful API best practices and asynchronous data handling
 
 🤝 Contributing
 Contributions are welcome. For major changes, open an issue first to discuss proposed modifications.
@@ -91,5 +88,3 @@ Contributions are welcome. For major changes, open an issue first to discuss pro
 📄 License
 This project is licensed under the MIT License.
 
-
-## 📂 Folder Structure (Example: Invoice App)
